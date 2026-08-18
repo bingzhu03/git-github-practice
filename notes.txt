@@ -2,3 +2,4 @@ Git practice begins
 Second line: inspect before staging.
 紫薇斋
 remote line :edited on github
+Local workflow practice
